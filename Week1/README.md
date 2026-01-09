@@ -16,7 +16,7 @@ II.Sử dụng Pandas để thực hiện các yêu cầu
 III. Ứng dụng pandas
   1. Pandas cho phép bạn làm mọi thứ bạn làm trên Excel (và hơn thế nữa) nhưng thông qua các dòng code, giúp xử lý lượng dữ liệu cực lớn mà Excel không thể tải nổi.
   2. Những việc cụ thể Pandas làm được:
-     * Đọc và Ghi dữ liệu: Pandas có thể đọc dữ liệu từ rất nhiều nguồn khác nhau như file CSV, Excel, JSON, SQL Database, HTML,... và chuyển đổi chúng thành DataFrame để xử lý.
+     * Đọc và Ghi dữ liệu: Pandas có thể đọc dữ liệu từ rất nhiều nguồn khác nhau như file CSV, Excel, JSON, SQL Database, HTML,... và chuyển đổi chúng thành DataFrame để xử          lý.
      * Làm sạch dữ liệu (Data Cleaning):
      * Xử lý các dữ liệu bị thiếu (missing data/NaN).
      * Xóa hoặc thay thế các dòng dữ liệu trùng lặp.
