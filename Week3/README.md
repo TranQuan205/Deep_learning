@@ -1,5 +1,7 @@
 LAB 3: LÀM SẠCH DỮ LIỆU CƠ BẢN (Basic Data Cleaning)
+
 📌 Giới thiệu (Introduction)
+
   Bài thực hành này tập trung vào kỹ năng xử lý và làm sạch dữ liệu y khoa (cụ thể là dữ liệu về huyết áp và nhịp tim của bệnh nhân).
   
 Mục tiêu chính: Sinh viên nắm vững cách sử dụng thư viện Pandas trong Python để phát hiện và xử lý các vấn đề thường gặp trong dữ liệu thô.
